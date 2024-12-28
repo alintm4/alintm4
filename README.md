@@ -10,6 +10,7 @@ Hello! I'm Alin Timelsana, a passionate Computer Engineering student currently p
   Institute of Engineering (IOE), Thapathali Campus  
   Expected Graduation: 2027
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alintm4&label=Profile%20views&color=0e75b6&style=flat" alt="alintm4" /> </p>
 ## Contact
 
 <p align="left">
