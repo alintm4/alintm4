@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Alin Timelsana, a passionate Computer Engineering student currently pursuing my Bachelor's degree at IOE, Thapathali Campus.
+Hey! I'm Alin Timelsana, a passionate Computer Engineering student currently pursuing my Bachelor's degree at IOE, Thapathali Campus.
 
 ## Education
 
