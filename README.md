@@ -10,7 +10,7 @@
 ## 📌 About Me  
 Hey! I'm **Alin Timelsana**, a **Computer Engineering student** at **IOE, Thapathali Campus**. I enjoy **solving problems, building things, and exploring new technologies**. 
 
-- 🎓 **B.Eng in Computer Engineering** | **2023 - 2028**  
+- 🎓 **B.Eng in Computer Engineering** | **2023 - 2027**  
 - 🌍 **From Nepal**   
 
 
