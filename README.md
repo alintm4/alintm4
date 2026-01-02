@@ -2,10 +2,13 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?duration=3000&color=14B1C9&center=true&vCenter=true&lines=Hi%2C+I+am+Alin+Timelsana;Computer+Engineering+Student;From+Nepal">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=14B1C9&center=true&vCenter=true&lines=Hi%2C+I+am+Alin+Timelsana;Computer+Engineering+Student;From+Nepal" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=14B1C9&center=true&vCenter=true&lines=Hi%2C+I+am+Alin+Timelsana;Computer+Engineering+Student;From+Nepal;%F0%9F%92%BB+BTW%2C+I+Use+Arch" alt="Typing SVG">
   </a>
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JhaXhzbXg3bGN4aHptYjF2YnA2aHdzMGlwdnQ1NzZpOGtxNzB0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Arch Linux Terminal">
+</div>
 
 ## 📌 About Me  
 Hey! I'm **Alin Timelsana**, a **Computer Engineering student** at **IOE, Thapathali Campus**. I enjoy **solving problems, building things, and exploring new technologies**. 
@@ -28,12 +31,12 @@ Hey! I'm **Alin Timelsana**, a **Computer Engineering student** at **IOE, Thapat
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alintm4&theme=github-dark-blue" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alintm4&layout=compact&theme=github_dark" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=alintm4&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alintm4&theme=github_dark" />
 </p>
 
 
-## 🌐 Contact  
+## 🌐 Contact Me
 <p align="left">
   <a href="https://www.facebook.com/alin.timilsana.3" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
