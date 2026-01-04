@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?duration=3000&color=14B1C9&center=true&vCenter=true&lines=Hi%2C+I+am+Alin+Timelsana;Computer+Engineering+Student;From+Nepal">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=14B1C9&center=true&vCenter=true&lines=Hi%2C+I+am+Alin+Timelsana;Computer+Engineering+Student;From+Nepal;%F0%9F%92%BB+BTW%2C+I+Use+Arch" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=14B1C9&center=true&vCenter=true&lines=Hi%2C+I+am+Alin+Timelsana;Computer+Engineering+Student;From+Nepal;" alt="Typing SVG">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JhaXhzbXg3bGN4aHptYjF2YnA2aHdzMGlwdnQ1NzZpOGtxNzB0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Arch Linux Terminal">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JhaXhzbXg3bGN4aHptYjF2YnA2aHdzMGlwdnQ1NzZpOGtxNzB0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" alt=" Terminal">
 </div>
 
 ## 📌 About Me  
